@@ -1,0 +1,20 @@
+<resources>
+    <string name="omdbapi_url">http://www.omdbapi.com</string>
+
+    <string name="app_name">MovieShelf</string>
+    <string name="search">Pesquisar</string>
+    <string name="no_movies_save">Você não possui\nfilmes salvos</string>
+    <string name="search_and_add_movies">Pesquise e adicione filmes\na sua estante</string>
+    <string name="no_movies_found">Nenhum filme encontrado</string>
+    <string name="search_other_key">Pesquise palavras-chaves diferentes</string>
+    <string name="no_internet_connection">Sem conexão com\na internet</string>
+    <string name="verify_your_connection">Verifique e tente novamente</string>
+    <string name="actors">Elenco:</string>
+    <string name="director">Diretor:</string>
+    <string name="awards">Awards:</string>
+    <string name="add_to_shelf">Adicionar a estante</string>
+    <string name="remove_to_shelf">Remover da estante</string>
+    <string name="share_via">Compartilhar via</string>
+    <string name="movie_added">Filme adicionado a estante</string>
+    <string name="movie_removed">Filme removido da estante</string>
+</resources>
